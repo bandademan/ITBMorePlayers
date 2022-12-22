@@ -4,7 +4,6 @@ using System.Runtime.InteropServices;
 using MelonLoader;
 
 [assembly: MelonInfo(typeof(MorePlayers.Main), "Inside the Backrooms MorePlayers", "1.0.0", "Mr. Monocle")]
-//[assembly: MelonGame("Backrooms", "Inside the Backrooms")]
 
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
