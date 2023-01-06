@@ -15,8 +15,8 @@ A MelonLoader Mod for Inside the Backrooms that allows more players in a game (U
 ## ITB Versions:
 NOTE: ITB 0.2.1 and above must use MelonLoader 6.0
 
-  0.2.5 - WIP
+  ITB v0.2.5 - WIP
   
-  0.2.1 - https://github.com/bandademan/ITBMorePlayers/releases/tag/v1.0.1
+  ITB v0.2.1 - https://github.com/bandademan/ITBMorePlayers/releases/tag/v1.0.1
   
-  0.2.0 and lower - https://github.com/bandademan/ITBMorePlayers/releases/tag/Release
+  ITB v0.2.0 and lower - https://github.com/bandademan/ITBMorePlayers/releases/tag/Release
