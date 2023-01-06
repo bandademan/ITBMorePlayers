@@ -13,6 +13,8 @@ A MelonLoader Mod for Inside the Backrooms that allows more players in a game (U
   Click host and select the max amount per lobby
   
 ## ITB Versions:
+NOTE: ITB 0.2.1 and above must use MelonLoader 6.0
+
   0.2.5 - WIP
   
   0.2.1 - https://github.com/bandademan/ITBMorePlayers/releases/tag/v1.0.1
