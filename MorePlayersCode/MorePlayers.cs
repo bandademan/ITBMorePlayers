@@ -1,9 +1,9 @@
-﻿using MelonLoader;
-
+﻿using Il2Cpp;
+using MelonLoader;
 
 namespace MorePlayers
 {
-    public class Main: MelonMod
+    public class MorePlayers : MelonMod
     {
         public override void OnSceneWasInitialized(int buildIndex, string sceneName)
         {

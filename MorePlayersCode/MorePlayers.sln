@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.1.32421.90
+VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorePlayers", "MorePlayers.csproj", "{53F64696-062E-425D-93FE-486B4BD4EFCF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MorePlayers", "MorePlayers.csproj", "{FA8EFA23-D34E-47C1-B12A-54BB49EDF78E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{53F64696-062E-425D-93FE-486B4BD4EFCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{53F64696-062E-425D-93FE-486B4BD4EFCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{53F64696-062E-425D-93FE-486B4BD4EFCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{53F64696-062E-425D-93FE-486B4BD4EFCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA8EFA23-D34E-47C1-B12A-54BB49EDF78E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8EFA23-D34E-47C1-B12A-54BB49EDF78E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8EFA23-D34E-47C1-B12A-54BB49EDF78E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8EFA23-D34E-47C1-B12A-54BB49EDF78E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {CE010A32-DB69-4447-A99A-854AA30018B1}
+		SolutionGuid = {84CE5A38-4C37-419D-B5C0-0A78ADB5B500}
 	EndGlobalSection
 EndGlobal
