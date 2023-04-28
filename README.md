@@ -3,20 +3,17 @@
 A MelonLoader Mod for Inside the Backrooms that allows more players in a game (Up to 15)
 
 ## How to use:
-  Install Melonloader to Inside the Backrooms
+  Install Melonloader 6.1 to Inside the Backrooms 
+  - Select "Show APLHA Pre-Releases" in the MelonLoader installer Settings
   
   Download the .dll and place it in the mods folder 
   
   Only the host needs the mod
 
 ## Controls:
-  Click host and select the max amount per lobby
+  Click host and press ~ (Tilde) to set the amount of players
+  
+  If you want to change the max player amount create a text file in the mods folder named "MaxPlayers" and place the number inside the text file
   
 ## ITB Versions:
-NOTE: ITB 0.2.1 and above must use MelonLoader 6.0
-
-  ITB v0.2.5 - WIP
-  
-  ITB v0.2.1 - https://github.com/bandademan/ITBMorePlayers/releases/tag/v1.0.1
-  
-  ITB v0.2.0 and lower - https://github.com/bandademan/ITBMorePlayers/releases/tag/Release
+  ITB v0.3.0 - https://github.com/bandademan/ITBMorePlayers/releases/tag/v2.0.0
